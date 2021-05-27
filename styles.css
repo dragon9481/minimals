@@ -236,6 +236,7 @@ hr {
     
     #sidebar .toggle-btn {
        left: 350px;
+       display: flex;
     }    
     
     .nav-main ul.nav-menu {
