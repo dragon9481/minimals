@@ -233,7 +233,11 @@ hr {
 }
 
 @media (max-width: 650px) {
-
+    
+    #sidebar .toggle-btn {
+       left: 350px;
+    }    
+    
     .nav-main ul.nav-menu {
         display: block;
         position: absolute;
